@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fournisseurs>
+  <fournisseur>
+    <id>1</id>
+    <nom>TechCorp</nom>
+    <contact>Jean Dupont</contact>
+    <email>jean.dupont@techcorp.com</email>
+    <telephone>01 23 45 67 89</telephone>
+    <adresse>123 Rue de la Tech, Paris</adresse>
+  </fournisseur>
+  <fournisseur>
+    <id>2</id>
+    <nom>MobilePlus</nom>
+    <contact>Marie Martin</contact>
+    <email>marie.martin@mobileplus.com</email>
+    <telephone>01 34 56 78 90</telephone>
+    <adresse>456 Avenue Mobile, Lyon</adresse>
+  </fournisseur>
+<fournisseur><id>4</id><nom>Tafita</nom><contact>Armail</contact><email>ar@gmail.com</email><telephone>034229320</telephone><adresse>11/47 mangarano II, Toamasina</adresse></fournisseur><fournisseur><id>5</id><nom>QD</nom><contact>034167228</contact><email>arail@mail.com</email><telephone>02773</telephone><adresse>mangaranoII</adresse></fournisseur></fournisseurs>

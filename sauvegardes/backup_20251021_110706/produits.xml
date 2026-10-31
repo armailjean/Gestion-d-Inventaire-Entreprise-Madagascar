@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<inventaire>
+  <produit>
+    <id>1</id>
+    <nom>Ordinateur Portable</nom>
+    <categorie>Informatique</categorie>
+    <quantite>15</quantite>
+    <prix>899.99</prix>
+    <fournisseur>TechCorp</fournisseur>
+    <date_ajout>2024-01-15 10:30:00</date_ajout>
+  </produit>
+  <produit>
+    <id>2</id>
+    <nom>Smartphone</nom>
+    <categorie>Électronique</categorie>
+    <quantite>25</quantite>
+    <prix>599.99</prix>
+    <fournisseur>MobilePlus</fournisseur>
+    <date_ajout>2024-01-16 14:20:00</date_ajout>
+  </produit>
+<produit><id>5</id><nom>Mainaka</nom><categorie>huille</categorie><quantite>12</quantite><prix>2300</prix><fournisseur>Savonierie Mada</fournisseur><date_ajout>2025-09-30 17:22:12</date_ajout></produit><produit><id>6</id><nom>BDASBDSA</nom><categorie>NSANSAS</categorie><quantite>122</quantite><prix>123121</prix><fournisseur>TechCorp</fournisseur><date_ajout>2025-10-05 12:28:44</date_ajout></produit><produit><id>6</id><nom>Cax</nom><categorie>produit ceveux</categorie><quantite>199</quantite><prix>26828</prix><fournisseur>TECH CEVEUX</fournisseur><date_ajout>2025-10-05 14:07:22</date_ajout></produit><produit><id>7</id><nom>iphone4</nom><categorie>telephone</categorie><quantite>1</quantite><prix>200000</prix><fournisseur>Iphone</fournisseur><date_ajout>2025-10-05 14:17:36</date_ajout></produit><produit><id>8</id><nom>Savon</nom><categorie>Pro</categorie><quantite>12</quantite><prix>12</prix><fournisseur>QD</fournisseur><date_ajout>2025-10-21 11:03:51</date_ajout></produit></inventaire>

@@ -1,0 +1,42 @@
+customtkinter==5.2.2
+reportlab==4.0.10
+Pillow==10.2.0
+
+Étape 1 — Retourner dans le dossier de ton projet
+Copie cette commande dans PowerShell :
+cd "D:\Armail\M1  Génie Informatique\xml\Gestion_Invetaire"
+
+
+Étape 2 — Créer un nouvel environnement virtuel
+python -m venv .venv_nouveau
+
+
+Étape 3 — Activer le nouvel environnement
+Copie cette commande dans PowerShell :
+cd "D:\Armail\M1  Génie Informatique\xml\Gestion_Invetaire"
+.\.venv_nouveau\Scripts\Activate.ps1
+
+
+Étape 4 — Installer les bibliothèques
+	Étape 1 — Installer CustomTkinter
+		python -m pip install customtkinter==5.2.2
+	Étape 2 — Installer ReportLab
+		python -m pip install reportlab==4.0.9
+	Étape 3 — Installer Pillow et les bibliothèques graphiques
+		python -m pip install Pillow matplotlib numpy
+	Étape 4 — Vérifier toutes les installations
+		python -c "import customtkinter, reportlab, PIL, matplotlib, numpy; print('Installation réussie !')"
+
+
+Étape 5 — Vérifier ton environnement
+Ton terminal affiche actuellement le dossier :
+
+D:\Armail\M1  Génie Informatique\xml\Gestion_Invetaire
+
+Vérifie que ton fichier Python se trouve dans ce dossier :
+   	Get-ChildItem *.py
+
+
+Étape 6 — Lancer l'application
+Si ton fichier s'appelle gestion_inventaire.py, exécute :
+    	python main.py

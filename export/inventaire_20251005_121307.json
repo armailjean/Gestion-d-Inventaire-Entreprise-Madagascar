@@ -1,0 +1,59 @@
+{
+  "produits": [
+    {
+      "id": "1",
+      "nom": "Ordinateur Portable",
+      "categorie": "Informatique",
+      "quantite": "15",
+      "prix": "899.99",
+      "fournisseur": "TechCorp",
+      "date_ajout": "2024-01-15 10:30:00"
+    },
+    {
+      "id": "2",
+      "nom": "Smartphone",
+      "categorie": "Électronique",
+      "quantite": "25",
+      "prix": "599.99",
+      "fournisseur": "MobilePlus",
+      "date_ajout": "2024-01-16 14:20:00"
+    },
+    {
+      "id": "5",
+      "nom": "EETRTY",
+      "categorie": "TTY",
+      "quantite": "112",
+      "prix": "2445",
+      "fournisseur": "MobilePlus",
+      "date_ajout": "2025-09-28 18:01:14"
+    },
+    {
+      "id": "5",
+      "nom": "Mainaka",
+      "categorie": "huille",
+      "quantite": "12",
+      "prix": "2300",
+      "fournisseur": "Savonierie Mada",
+      "date_ajout": "2025-09-30 17:22:12"
+    }
+  ],
+  "fournisseurs": [
+    {
+      "id": "1",
+      "nom": "TechCorp",
+      "contact": "Jean Dupont",
+      "email": "jean.dupont@techcorp.com",
+      "telephone": "01 23 45 67 89",
+      "adresse": "123 Rue de la Tech, Paris"
+    },
+    {
+      "id": "2",
+      "nom": "MobilePlus",
+      "contact": "Marie Martin",
+      "email": "marie.martin@mobileplus.com",
+      "telephone": "01 34 56 78 90",
+      "adresse": "456 Avenue Mobile, Lyon"
+    }
+  ],
+  "date_export": "2025-10-05T12:13:07.506452"
+}

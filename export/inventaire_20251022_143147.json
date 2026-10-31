@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "date_export": "2025-10-22T14:31:47.902531",
+    "total_produits": 7,
+    "total_fournisseurs": 4,
+    "version_export": "2.0"
+  },
+  "produits": [
+    {
+      "id": "1",
+      "nom": "Ordinateur Portable",
+      "categorie": "Informatique",
+      "quantite": "15",
+      "prix": "899.99",
+      "fournisseur": "TechCorp",
+      "date_ajout": "2024-01-15 10:30:00"
+    },
+    {
+      "id": "2",
+      "nom": "Smartphone",
+      "categorie": "Électronique",
+      "quantite": "25",
+      "prix": "599.99",
+      "fournisseur": "MobilePlus",
+      "date_ajout": "2024-01-16 14:20:00"
+    },
+    {
+      "id": "5",
+      "nom": "Mainaka",
+      "categorie": "huille",
+      "quantite": "12",
+      "prix": "2300",
+      "fournisseur": "Savonierie Mada",
+      "date_ajout": "2025-09-30 17:22:12"
+    },
+    {
+      "id": "6",
+      "nom": "BDASBDSA",
+      "categorie": "NSANSAS",
+      "quantite": "122",
+      "prix": "123121",
+      "fournisseur": "TechCorp",
+      "date_ajout": "2025-10-05 12:28:44"
+    },
+    {
+      "id": "6",
+      "nom": "Cax",
+      "categorie": "produit ceveux",
+      "quantite": "199",
+      "prix": "26828",
+      "fournisseur": "TECH CEVEUX",
+      "date_ajout": "2025-10-05 14:07:22"
+    },
+    {
+      "id": "7",
+      "nom": "iphone4",
+      "categorie": "telephone",
+      "quantite": "1",
+      "prix": "200000",
+      "fournisseur": "Iphone",
+      "date_ajout": "2025-10-05 14:17:36"
+    },
+    {
+      "id": "8",
+      "nom": "Savon",
+      "categorie": "Pro",
+      "quantite": "12",
+      "prix": "12",
+      "fournisseur": "QD",
+      "date_ajout": "2025-10-21 11:03:51"
+    }
+  ],
+  "fournisseurs": [
+    {
+      "id": "1",
+      "nom": "TechCorp",
+      "contact": "Jean Dupont",
+      "email": "jean.dupont@techcorp.com",
+      "telephone": "01 23 45 67 89",
+      "adresse": "123 Rue de la Tech, Paris"
+    },
+    {
+      "id": "2",
+      "nom": "MobilePlus",
+      "contact": "Marie Martin",
+      "email": "marie.martin@mobileplus.com",
+      "telephone": "01 34 56 78 90",
+      "adresse": "456 Avenue Mobile, Lyon"
+    },
+    {
+      "id": "4",
+      "nom": "Tafita",
+      "contact": "Armail",
+      "email": "ar@gmail.com",
+      "telephone": "034229320",
+      "adresse": "11/47 mangarano II, Toamasina"
+    },
+    {
+      "id": "5",
+      "nom": "QD",
+      "contact": "034167228",
+      "email": "arail@mail.com",
+      "telephone": "02773",
+      "adresse": "mangaranoII"
+    }
+  ]
+}
