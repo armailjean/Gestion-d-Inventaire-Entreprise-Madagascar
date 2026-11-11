@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ventes>
+
+    <operation>
+    <id>1</id>
+    <produit>Riz Malagasy</produit>
+    <type>Sortie</type>
+    <quantite>10</quantite>
+    <prix>2500</prix>
+    <raison>Vente</raison>
+    <date>2024-01-16 09:00:00</date>
+    <ancien_stock>150</ancien_stock>
+    <nouveau_stock>140</nouveau_stock>
+</operation>
+<operation>
+    <id>2</id>
+    <produit>Vanille de Madagascar</produit>
+    <type>Sortie</type>
+    <quantite>5</quantite>
+    <prix>15000</prix>
+    <raison>Vente</raison>
+    <date>2024-01-16 10:30:00</date>
+    <ancien_stock>25</ancien_stock>
+    <nouveau_stock>20</nouveau_stock>
+</operation>
+
+<operation><id>4</id><produit>Riz Malagasy</produit><type>Entrée</type><quantite>3</quantite><prix>300</prix><raison>Vente</raison><date>2025-11-28 07:06:12</date><ancien_stock>150</ancien_stock><nouveau_stock>153</nouveau_stock></operation><operation><id>5</id><produit>Riz Malagasy</produit><type>Sortie</type><quantite>2</quantite><prix>300</prix><raison>Vente</raison><date>2025-12-01 23:20:56</date><ancien_stock>153</ancien_stock><nouveau_stock>151</nouveau_stock></operation></ventes>

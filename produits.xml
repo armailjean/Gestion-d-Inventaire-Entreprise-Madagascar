@@ -1,3 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <inventaire>
-  <produit><id>2</id><nom>iPHONE</nom><categorie>Telephone</categorie><quantite>12</quantite><prix>500</prix><fournisseur>MobilePlus</fournisseur><date_ajout>2025-11-12 17:01:57</date_ajout></produit></inventaire>
+
+  
+<produit>
+    <id>1</id>
+    <nom>Riz Malagasy</nom>
+    <categorie>Alimentation</categorie>
+    <quantite>151</quantite>
+    <prix>2500</prix>
+    <fournisseur>Riz du Terroir</fournisseur>
+    <date_ajout>2024-01-15 10:30:00</date_ajout>
+</produit>
+<produit>
+    <id>2</id>
+    <nom>Vanille de Madagascar</nom>
+    <categorie>Épices</categorie>
+    <quantite>25</quantite>
+    <prix>15000</prix>
+    <fournisseur>Vanille Premium</fournisseur>
+    <date_ajout>2024-01-15 11:00:00</date_ajout>
+</produit>
+<produit>
+    <id>3</id>
+    <nom>Litchi Frais</nom>
+    <categorie>Fruits</categorie>
+    <quantite>80</quantite>
+    <prix>3500</prix>
+    <fournisseur>Fruits Tropicaux</fournisseur>
+    <date_ajout>2024-01-15 09:15:00</date_ajout>
+</produit>
+<produit>
+    <id>4</id>
+    <nom>Café de Madagascar</nom>
+    <categorie>Boissons</categorie>
+    <quantite>45</quantite>
+    <prix>12000</prix>
+    <fournisseur>Café Malgache</fournisseur>
+    <date_ajout>2024-01-15 14:20:00</date_ajout>
+</produit>
+<produit>
+    <id>5</id>
+    <nom>Poivre Noir</nom>
+    <categorie>Épices</categorie>
+    <quantite>60</quantite>
+    <prix>8000</prix>
+    <fournisseur>Épices de l'Île</fournisseur>
+    <date_ajout>2024-01-15 16:45:00</date_ajout>
+</produit>
+  
+</inventaire>

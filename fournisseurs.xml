@@ -1,19 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
 <fournisseurs>
-  <fournisseur>
+<fournisseur>
     <id>1</id>
-    <nom>TechCorp</nom>
-    <contact>rakoto bao</contact>
-    <email>bao.rakoto@techcorp.com</email>
-    <telephone>01 23 45 67 89</telephone>
-    <adresse>11/47 Mangarano 2</adresse>
-  </fournisseur>
-  <fournisseur>
+    <nom>Riz du Terroir</nom>
+    <contact>Jean Rakoto</contact>
+    <email>rizterroir@gmail.com</email>
+    <telephone>+261341234567</telephone>
+    <adresse>Lot IIK 34, Antananarivo</adresse>
+</fournisseur>
+<fournisseur>
     <id>2</id>
-    <nom>MobilePlus</nom>
-    <contact>Marie Martin</contact>
-    <email>marie.martin@mobileplus.com</email>
-    <telephone>01 34 56 78 90</telephone>
-    <adresse>456 Avenue Mobile, Lyon</adresse>
-  </fournisseur>
-</fournisseurs>
+    <nom>Vanille Premium</nom>
+    <contact>Marie Rasoa</contact>
+    <email>vanille.premium@gmail.com</email>
+    <telephone>0321234567</telephone>
+    <adresse>Sambava, Sava</adresse>
+</fournisseur>
+<fournisseur>
+    <id>3</id>
+    <nom>Fruits Tropicaux</nom>
+    <contact>Pierre Andria</contact>
+    <email>fruits.tropicaux@gmail.com</email>
+    <telephone>0339876543</telephone>
+    <adresse>Tamatave, Est</adresse>
+</fournisseur>
+<fournisseur>
+    <id>4</id>
+    <nom>Café Malgache</nom>
+    <contact>Sophie Ravao</contact>
+    <email>cafe.malgache@gmail.com</email>
+    <telephone>0341122334</telephone>
+    <adresse>Fianarantsoa, Hautes Terres</adresse>
+</fournisseur>
+<fournisseur>
+    <id>5</id>
+    <nom>Épices de l'Île</nom>
+    <contact>David Randria</contact>
+    <email>epices.ile@gmail.com</email>
+    <telephone>0385566778</telephone>
+    <adresse>Nosy Be, Diana</adresse>
+</fournisseur>
+
+<fournisseur><id>7</id><nom>MB</nom><contact>Memphis brayan</contact><email>memphis@gmail.com</email><telephone>0339046021</telephone><adresse>Mangarano 2,Toamasina</adresse></fournisseur></fournisseurs>

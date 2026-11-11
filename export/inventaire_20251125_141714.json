@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "date_export": "2025-11-25T14:17:14.354534",
+    "total_produits": 9,
+    "total_fournisseurs": 5,
+    "version_export": "2.0"
+  },
+  "produits": [
+    {
+      "id": "1",
+      "nom": "Ordinateur Portable",
+      "categorie": "Informatique",
+      "quantite": "15",
+      "prix": "899.99",
+      "fournisseur": "TechCorp",
+      "date_ajout": "2024-01-15 10:30:00"
+    },
+    {
+      "id": "2",
+      "nom": "Smartphone",
+      "categorie": "Électronique",
+      "quantite": "25",
+      "prix": "599.99",
+      "fournisseur": "MobilePlus",
+      "date_ajout": "2024-01-16 14:20:00"
+    },
+    {
+      "id": "5",
+      "nom": "Mainaka",
+      "categorie": "huille",
+      "quantite": "12",
+      "prix": "2300",
+      "fournisseur": "Savonierie Mada",
+      "date_ajout": "2025-09-30 17:22:12"
+    },
+    {
+      "id": "6",
+      "nom": "BDASBDSA",
+      "categorie": "NSANSAS",
+      "quantite": "122",
+      "prix": "123121",
+      "fournisseur": "TechCorp",
+      "date_ajout": "2025-10-05 12:28:44"
+    },
+    {
+      "id": "6",
+      "nom": "Cax",
+      "categorie": "produit ceveux",
+      "quantite": "199",
+      "prix": "26828",
+      "fournisseur": "TECH CEVEUX",
+      "date_ajout": "2025-10-05 14:07:22"
+    },
+    {
+      "id": "8",
+      "nom": "Redome",
+      "categorie": "adasa",
+      "quantite": "2",
+      "prix": "230",
+      "fournisseur": "Tafita",
+      "date_ajout": "2025-11-14 13:12:44"
+    },
+    {
+      "id": "8",
+      "nom": "sdsd",
+      "categorie": "ksdkskd",
+      "quantite": "10",
+      "prix": "2300",
+      "fournisseur": "Tafita",
+      "date_ajout": "2025-11-14 13:15:21"
+    },
+    {
+      "id": "9",
+      "nom": "Cax",
+      "categorie": "produit ceveux",
+      "quantite": "12",
+      "prix": "123",
+      "fournisseur": "Tafita",
+      "date_ajout": "2025-11-24 09:53:07"
+    },
+    {
+      "id": "10",
+      "nom": "ada",
+      "categorie": "ser",
+      "quantite": "12",
+      "prix": "2300",
+      "fournisseur": "Tafita",
+      "date_ajout": "2025-11-25 14:08:02"
+    }
+  ],
+  "fournisseurs": [
+    {
+      "id": "1",
+      "nom": "TechCorp",
+      "contact": "Jean Dupont",
+      "email": "jean.dupont@techcorp.com",
+      "telephone": "01 23 45 67 89",
+      "adresse": "123 Rue de la Tech, Paris"
+    },
+    {
+      "id": "2",
+      "nom": "MobilePlus",
+      "contact": "Marie Martin",
+      "email": "marie.martin@mobileplus.com",
+      "telephone": "01 34 56 78 90",
+      "adresse": "456 Avenue Mobile, Lyon"
+    },
+    {
+      "id": "4",
+      "nom": "Tafita",
+      "contact": "Armail",
+      "email": "ar@gmail.com",
+      "telephone": "034229320",
+      "adresse": "11/47 mangarano II, Toamasina"
+    },
+    {
+      "id": "6",
+      "nom": "ADA",
+      "contact": "099",
+      "email": "YTY",
+      "telephone": "087",
+      "adresse": "GHG"
+    },
+    {
+      "id": "6",
+      "nom": "SDFS",
+      "contact": "DA",
+      "email": "ADF",
+      "telephone": "GHG",
+      "adresse": "tOAMASINA"
+    }
+  ]
+}
